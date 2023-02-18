@@ -1,4 +1,4 @@
 vi 1-compiler
 #!/bin/bash
-gcc -c  E $CFILE -o c
+gcc -c $CFILE 
 
