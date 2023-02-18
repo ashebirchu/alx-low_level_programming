@@ -1,2 +1,4 @@
+vi 1-compiler
 #!/bin/bash
-gcc -c $CFILE
+gcc -c  E $CFILE -o c
+
