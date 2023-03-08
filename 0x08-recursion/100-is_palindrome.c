@@ -27,7 +27,7 @@ int find_strlen(char *s)
 		return (0);
 }
 
-/**
+i/**
  * check_if_palindrome - check if string is a palindrome
  * @s: the string to be checked
  * @i: index
@@ -44,3 +44,4 @@ int check_if_palindrome(char *s, int i, int len)
 
 	return (0);
 }
+
